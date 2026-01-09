@@ -13,7 +13,7 @@ This experiment explores an "agent" that starts from a **paper URL** (e.g. PubMe
 ## Quick start
 
 ```bash
-cd research/data-finder
+cd data-finder
 python data_finder.py --paper-url https://pubmed.ncbi.nlm.nih.gov/27345837/
 ```
 
